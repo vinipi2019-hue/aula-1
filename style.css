@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1139713706/pt/vetorial/taxi-driver-with-car-isolated-cartoon-character.jpg?s=1024x1024&w=is&k=20&c=uMD-4V8-kkExH-JnU0fcOH3xQodZQJHc78Vmap-INUA=);background-position: center;
+    background-repeat: no-repeat;
+  background-size: cover; /* ou contain, dependendo do ajuste desejado */
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+h1 {
+    color: rgb(0, 68, 255);
+}
+div {
+    background-color: rgba(253, 244, 244, 0); 
+    max-width: 15%;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    margin-top: 400px;
+}
+ul {
+    color:blue
+}
+li:hover{
+    color:darkgoldenrod;
+    transition: 0.8s;
+}
